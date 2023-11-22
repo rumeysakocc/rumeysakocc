@@ -1,4 +1,6 @@
 ![comp](https://github.com/rumeysakocc/rumeysakocc/assets/115664157/344ed2b6-94aa-4ed1-84c9-6d3cbe80b106)
+
+
 ![](https://komarev.com/ghpvc/?username=rumeysakocc&color=blue)
 
 
