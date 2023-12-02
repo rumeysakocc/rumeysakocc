@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-end(.Net core)**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **İmage Processing**
 
 - 📫 How to reach me **rumeysakocresmi@gmail.com**
 
