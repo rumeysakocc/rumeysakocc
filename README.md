@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=rumeysakocc&color=blue)
 
 
-- 🌱 I’m currently learning **Back-end(.Net core)**
+- 🌱 I’m currently learning **Back-end(.Net core,django)**
 
 - 💬 Ask me about **Image Processing**
 
